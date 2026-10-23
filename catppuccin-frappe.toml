@@ -1,0 +1,28 @@
+# Catppuccin Frappe (dark) and Latte (light) for tmarkdown.
+# https://catppuccin.com/palette
+
+[dark]
+text          = "#C6D0F5"
+muted         = "#838BA7"
+faint         = "#51576D"
+accent_strong = "#CA9EE6"
+accent        = "#8CAAEE"
+accent_soft   = "#A6D189"
+emphasis      = "#EF9F76"
+code_bg       = "#292C3C"
+status_bg     = "#232634"
+keycap_bg     = "#414559"
+on_accent     = "#232634"
+
+[light]
+text          = "#4C4F69"
+muted         = "#8C8FA1"
+faint         = "#BCC0CC"
+accent_strong = "#8839EF"
+accent        = "#1E66F5"
+accent_soft   = "#40A02B"
+emphasis      = "#FE640B"
+code_bg       = "#E6E9EF"
+status_bg     = "#DCE0E8"
+keycap_bg     = "#CCD0DA"
+on_accent     = "#EFF1F5"

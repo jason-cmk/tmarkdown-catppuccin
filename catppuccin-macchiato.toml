@@ -1,0 +1,28 @@
+# Catppuccin Macchiato (dark) and Latte (light) for tmarkdown.
+# https://catppuccin.com/palette
+
+[dark]
+text          = "#CAD3F5"
+muted         = "#8087A2"
+faint         = "#494D64"
+accent_strong = "#C6A0F6"
+accent        = "#8AADF4"
+accent_soft   = "#A6DA95"
+emphasis      = "#F5A97F"
+code_bg       = "#1E2030"
+status_bg     = "#181926"
+keycap_bg     = "#363A4F"
+on_accent     = "#181926"
+
+[light]
+text          = "#4C4F69"
+muted         = "#8C8FA1"
+faint         = "#BCC0CC"
+accent_strong = "#8839EF"
+accent        = "#1E66F5"
+accent_soft   = "#40A02B"
+emphasis      = "#FE640B"
+code_bg       = "#E6E9EF"
+status_bg     = "#DCE0E8"
+keycap_bg     = "#CCD0DA"
+on_accent     = "#EFF1F5"
