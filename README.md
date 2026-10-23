@@ -12,7 +12,7 @@ using the [Catppuccin](https://catppuccin.com) palette.
 ## Install
 
 ```
-git clone <this repo> ~/.config/tmarkdown/themes/catppuccin
+git clone https://github.com/jason-cmk/tmarkdown-catppuccin ~/.config/tmarkdown/themes/catppuccin
 ```
 
 Then in `~/.config/tmarkdown/config.toml`:
